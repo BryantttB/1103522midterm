@@ -23,7 +23,9 @@ jobs:
         pip install -r requirements.txt || true  # 若沒 requirements.txt 也不會報錯
 
     - name: Run static spider
-      run: python 1103522_midterm/static.py
+      working-directory: ./1103522_midterm
+      run: python static.py
 
     - name: Run API spider
-      run: python 1103522_midterm/api.py
+      working-directory: ./1103522_midterm
+      run: python api.py
