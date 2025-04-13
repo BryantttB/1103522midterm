@@ -1,0 +1,392 @@
+[
+  {
+    "symbol": "AAVE_USDC",
+    "price": "124.66",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "AAVE_USDC_PERP",
+    "price": "125.75",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "ACT_USDC",
+    "price": "0.0536",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "ADA_USDC_PERP",
+    "price": "0.5499",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "ANIME_USDC",
+    "price": "0.0127",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "APE_USDC",
+    "price": "0.3876",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "ARB_USDC_PERP",
+    "price": "0.27",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "AVAX_USDC_PERP",
+    "price": "15.816",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "BERA_USDC_PERP",
+    "price": "4.3496",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "BLUR_USDC",
+    "price": "0.0822",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "BNB_USDC_PERP",
+    "price": "547.45",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "BOME_USDC",
+    "price": "0.000997",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "BONK_USDC",
+    "price": "0.0000109",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "BTC_USDC",
+    "price": "77198.5",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "BTC_USDC_PERP",
+    "price": "77234.1",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "CLOUD_USDC",
+    "price": "0.0734",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "DBR_USDC",
+    "price": "0.018",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "DOGE_USDC_PERP",
+    "price": "0.14155",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "DOT_USDC_PERP",
+    "price": "3.422",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "DRIFT_USDC",
+    "price": "0.4359",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "ENA_USDC",
+    "price": "0.2805",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "ENA_USDC_PERP",
+    "price": "0.2807",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "ETH_USDC",
+    "price": "1517.3",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "ETH_USDC_PERP",
+    "price": "1516.97",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "FARTCOIN_USDC_PERP",
+    "price": "0.47",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "GOAT_USDC",
+    "price": "0.0377",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "HNT_USDC",
+    "price": "2.427",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "HONEY_USDC",
+    "price": "0.0276",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "HYPE_USDC_PERP",
+    "price": "10.386",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "IO_USDC",
+    "price": "0.5601",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "IP_USDC_PERP",
+    "price": "4.0231",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "JTO_USDC",
+    "price": "1.5452",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "JUP_USDC",
+    "price": "0.3346",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "JUP_USDC_PERP",
+    "price": "0.3346",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "J_USDC",
+    "price": "0.1864",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "KAITO_USDC_PERP",
+    "price": "0.8246",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "KMNO_USDC",
+    "price": "0.0394",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "LDO_USDC",
+    "price": "0.6799",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "LINK_USDC",
+    "price": "10.951",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "LINK_USDC_PERP",
+    "price": "10.961",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "LTC_USDC_PERP",
+    "price": "67.59",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "MELANIA_USDC",
+    "price": "0.53",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "MEW_USDC",
+    "price": "0.002033",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "ME_USDC",
+    "price": "0.7517",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "MOBILE_USDC",
+    "price": "0.0003126",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "MOODENG_USDC",
+    "price": "0.02264",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "MOVE_USDC",
+    "price": "0.2865",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "ONDO_USDC",
+    "price": "0.7166",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "ONDO_USDC_PERP",
+    "price": "0.7205",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "PENGU_USDC",
+    "price": "0.00411",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "PEPE_USDC",
+    "price": "0.000006199",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "POL_USDC",
+    "price": "0.1659",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "PRCL_USDC",
+    "price": "0.0556",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "PYTH_USDC",
+    "price": "0.1147",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "RAY_USDC",
+    "price": "1.477",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "RENDER_USDC",
+    "price": "2.749",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "SHFL_USDC",
+    "price": "0.1821",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "SHIB_USDC",
+    "price": "0.000011045",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "SOL_USDC",
+    "price": "102.77",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "SOL_USDC_PERP",
+    "price": "102.76",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "SONIC_USDC",
+    "price": "0.17182",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "STRK_USDC",
+    "price": "0.1215",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "SUI_USDC_PERP",
+    "price": "1.868",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "S_USDC_PERP",
+    "price": "0.4077",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "TNSR_USDC",
+    "price": "0.1137",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "TRUMP_USDC",
+    "price": "7.702",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "TRUMP_USDC_PERP",
+    "price": "7.729",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "UNI_USDC",
+    "price": "4.993",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "USDT_USDC",
+    "price": "0.9995",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "WEN_USDC",
+    "price": "0.00001864",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "WIF_USDC",
+    "price": "0.3372",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "WIF_USDC_PERP",
+    "price": "0.336",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "WLD_USDC",
+    "price": "0.6304",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "W_USDC",
+    "price": "0.0734",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "XRP_USDC_PERP",
+    "price": "1.7938",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "ZEX_USDC",
+    "price": "0.02443",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "ZKJ_USDC",
+    "price": "2.2423",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  },
+  {
+    "symbol": "ZRO_USDC",
+    "price": "2.485",
+    "timestamp": "2025-04-07T21:09:25.266220"
+  }
+]
