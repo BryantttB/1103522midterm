@@ -2,6 +2,4 @@ requests
 pandas
 beautifulsoup4
 PyNaCl
-base64
-csv
 pytz
