@@ -1,8 +1,0 @@
-requests
-pandas
-beautifulsoup4
-nacl.signing
-time
-base64
-csv
-pytz
