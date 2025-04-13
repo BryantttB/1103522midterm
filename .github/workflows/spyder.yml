@@ -20,7 +20,9 @@ jobs:
 
     - name: Install dependencies
       run: pip install -r 1103522_midterm/requirements.txt
-
+      
+    - name: Set environment variable for API_SECRET
+      run: echo "API_SECRET=${{ secrets.API_SECRET }}" >> $GITHUB_ENV
 
 
     - name: Run static spider
