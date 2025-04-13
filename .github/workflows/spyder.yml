@@ -19,7 +19,7 @@ jobs:
         python-version: '3.10'
 
     - name: Install dependencies
-      run: pip install -r 1103522_midterm/requirements.txt
+      run: pip install -r 1103522midterm/blob/main/1103522_midterm/requirements.txt
 
 
     - name: Run static spider
