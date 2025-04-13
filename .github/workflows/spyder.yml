@@ -1,0 +1,29 @@
+name: Run Spider
+
+on:
+  workflow_dispatch:  # 手動觸發
+  schedule:
+    - cron: '0 0 * * *'  # 每天台灣時間上午 8 點（UTC+8），這是 UTC 0 點
+
+jobs:
+  run-spider:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt || true  # 若沒 requirements.txt 也不會報錯
+
+    - name: Run static spider
+      run: python static.py
+
+    - name: Run API spider
+      run: python api.py
