@@ -9,7 +9,7 @@ import json
 
 # 🔐 請替換為你的 Base64 編碼的公鑰與私鑰（請妥善保管私鑰）
 API_KEY = "G1AQkTUGmNLS/1fllTMgi9KC/kb1KT8ZCEb5fHCNN3E="
-API_SECRET = "BYGeJrNk8KFx8dk9xXku45tZU6ntiV0Ryguc9TqyQ8A="
+API_SECRET = os.getenv("API_SECRET")
 
 BASE_URL = "https://api.backpack.exchange"
 
